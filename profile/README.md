@@ -1,3 +1,6 @@
+Websites: [Organization Website](https://github.com/bifurcationkit) | [Documentation](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/)
+
+
 bifurcationkit Organization Stats: ![SciML Stars](https://img.shields.io/github/stars/bifurcationkit?style=social)
 
 # bifurcationkit: towards automatic bifurcation analysis of dynamic systems
