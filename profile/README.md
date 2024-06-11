@@ -9,7 +9,7 @@ The bifurcationkit organization is a collection of tools for computing bifurcati
 
 ## Where to start?
 - Want to get started running some code? Check out the [Getting Started tutorials](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/gettingstarted/)
-- Want to compute bifurcation diagrams of PDE? check these [tutorials](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/tutorials/#PDEs:-bifurcations-of-equilibria)
+- Want to compute bifurcation diagrams of PDEs? check these [tutorials](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/tutorials/#PDEs:-bifurcations-of-equilibria)
 - Want to compute bifurcation diagrams of GPU? check these [tutorials](https://bifurcationkit.github.io/BifurcationKitDocs.jl/dev/tutorials/tutorials2b/#sh2dgpu)
 
 ## Which packages?
