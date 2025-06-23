@@ -17,3 +17,7 @@ The bifurcationkit organization is a collection of tools for computing bifurcati
 - for computing homoclinic orbits, check [HclinicBifurcationKit.jl](https://github.com/bifurcationkit/HclinicBifurcationKit.jl)
 - for PDE solved with Gridap.jl, check [GridapBifurcationKit.jl](https://github.com/bifurcationkit/GridapBifurcationKit)
 - for multi-parameter continuation, check [MultiParamContinuation.jl](https://github.com/bifurcationkit/MultiParamContinuation.jl)  
+
+## SciML Integration
+
+**BifurcationKit.jl** is listed in Third patry parameter analysis of [SciML Docs](https://docs.sciml.ai/DiffEqDocs/stable/#DifferentialEquations.jl:-Efficient-Differential-Equation-Solving-in-Julia) under the "Analysis" menu. [ModelingToolkit.jl](https://docs.sciml.ai/ModelingToolkit/stable/tutorials/bifurcation_diagram_computation/) and [Catalyst.jl](https://docs.sciml.ai/Catalyst/stable/steady_state_functionality/bifurcation_diagrams/) rely on **BifurcationKit.jl** as external dependency.
